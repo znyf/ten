@@ -12,4 +12,8 @@ public class daotest {
     public void test(){
         System.out.println(1231232);
     }
+
+    public void test1(){
+        System.out.println("asdfasdfsdfas");
+    }
 }
